@@ -5,4 +5,8 @@ addline3
 
 
 aldkaldfjalkfal
+<<<<<<< HEAD
 test merge in abc.
+=======
+test merge1.
+>>>>>>> master
